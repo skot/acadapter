@@ -28,3 +28,9 @@ The current design note and rationale are documented in `doc/acinfinity-usbc.md`
 ## Status
 
 This is an in-progress hardware project. The PCB and interface notes are in the repository, but the design assumptions should still be validated against real hardware before treating the board as production-ready.
+
+## License
+
+This project is licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S v2).
+
+See the `LICENSE` file for the full license text.

@@ -2252,6 +2252,24 @@
 				(hide yes)
 			)
 		)
+		(property "DK" "311-10KJRCT-ND"
+			(at 68.58 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "RC0402JR-0710KL"
+			(at 68.58 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0cee306f-4717-45e9-bf0a-66ef9011576f")
 		)
@@ -2412,6 +2430,24 @@
 				(hide yes)
 			)
 		)
+		(property "DK" "311-10KJRCT-ND"
+			(at 74.93 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "RC0402JR-0710KL"
+			(at 74.93 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "962be0bc-7d44-4b28-bc33-05719958b257")
 		)
@@ -2482,6 +2518,24 @@
 				(hide yes)
 			)
 		)
+		(property "DK" "311-10KJRCT-ND"
+			(at 88.9 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "RC0402JR-0710KL"
+			(at 88.9 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4f9a0f89-a33f-4a34-9078-0c367c310711")
 		)
@@ -2543,6 +2597,24 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 101.6 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK" "311-4.7KLRCT-ND"
+			(at 101.6 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "RC0402FR-074K7L"
+			(at 101.6 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2732,6 +2804,24 @@
 				(hide yes)
 			)
 		)
+		(property "DK" "490-10014-1-ND"
+			(at 77.47 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "GRM155C81E105KE11D"
+			(at 77.47 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b6dec46c-683b-4ea8-9b16-f72457c69717")
 		)
@@ -2823,6 +2913,24 @@
 				(hide yes)
 			)
 		)
+		(property "DK" "MMBT3904TPMSCT-ND"
+			(at 111.76 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "MMBT3904-TP"
+			(at 111.76 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "488a9842-b169-48a7-90e2-a9a40dde8410")
 		)
@@ -2888,6 +2996,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 104.14 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK" "490-10014-1-ND"
+			(at 104.14 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "GRM155C81E105KE11D"
 			(at 104.14 45.72 0)
 			(effects
 				(font
@@ -2967,7 +3093,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" ""
+		(property "DK" "2073-USB4105-GF-ACT-ND"
 			(at 151.13 68.58 0)
 			(effects
 				(font
